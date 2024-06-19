@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "crud-app",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "crud-app": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "crud-app",
+    "origin"
+  ]
+}
